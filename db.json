@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Lisa",
+      "lastName": "Gorewit-Decker",
+      "email": "lgorewit@gmail.com",
+      "dob": "1989-08-28T07:00:00.000Z",
+      "gender": "female",
+      "education": "Intermediate",
+      "company": "LBNL",
+      "experience": 15,
+      "compensation": 120000,
+      "id": 2
+    },
+    {
+      "firstName": "Joseph",
+      "lastName": "Decker",
+      "email": "jdecker1@gmail.com",
+      "dob": "1970-11-05T08:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "CVS",
+      "experience": 35,
+      "compensation": 22225000,
+      "id": 3
+    },
+    {
+      "firstName": "Sumon",
+      "lastName": "Ibrahimi",
+      "email": "sibrahimi@gmail.com",
+      "dob": "1993-06-10T07:00:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "LifeHouse",
+      "experience": 8,
+      "compensation": 45000,
+      "id": 4
+    },
+    {
+      "firstName": "Manuel",
+      "lastName": "Micu III",
+      "email": "manuelmic@gmail.com",
+      "dob": "1993-12-06T08:00:00.000Z",
+      "gender": "male",
+      "education": "Matric",
+      "company": "Manuel Micu's Cleaning & Hauling",
+      "experience": 12,
+      "compensation": 750000,
+      "id": 5
+    },
+    {
+      "firstName": "Joseph",
+      "lastName": "Decker",
+      "email": "lgorewit@gmail.com",
+      "dob": "1960-11-05T08:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "CVS Healthcare",
+      "experience": 40,
+      "compensation": 150000,
+      "id": 6
+    }
+  ]
+}
