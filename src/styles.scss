@@ -1,0 +1,111 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body {
+  min-height: 100%;
+  max-width: 100%;
+}
+
+body {
+  margin: 0px auto;
+  font-family: "Raleway", sans-serif;
+}
+
+.mat-toolbar, head, header {
+  background: #81D8D0;
+  color: #57504d !important;
+  padding: 40px 40px !important;
+  min-height: 120px;
+}
+
+.mat-mdc-icon-button.mat-primary {
+  --mdc-icon-button-icon-color: #81D8D0;
+}
+
+.mat-mdc-icon-button.mat-warn {
+  --mat-mdc-button-persistent-ripple-color: #F26321;
+  --mat-mdc-button-ripple-color: rgba(242, 99, 33, 1);
+}
+
+.mat-mdc-icon-button.mat-warn {
+  --mdc-icon-button-icon-color: #F26321;
+}
+
+.mat-mdc-icon-button.mat-warn {
+  --mdc-icon-button-icon-color: #F26321;
+}
+
+.mat-mdc-icon-button.mat-warn {
+  --mat-mdc-button-persistent-ripple-color: #F26321;
+  --mat-mdc-button-ripple-color: rgba(242, 99, 33, 1);
+}
+
+.mat-mdc-radio-button.mat-accent {
+  --mdc-radio-selected-focus-icon-color: #F26321;
+  --mdc-radio-selected-hover-icon-color: #F26321;
+  --mdc-radio-selected-icon-color: #F26321;
+  --mdc-radio-selected-pressed-icon-color: #F26321;
+  --mat-mdc-radio-checked-ripple-color: #F26321;
+}
+
+.mat-mdc-raised-button.mat-primary {
+  --mdc-protected-button-container-color: #81D8D0;
+  --mdc-protected-button-label-text-color: #57504d;
+}
+
+.mat-mdc-radio-button.mat-accent {
+  --mdc-radio-selected-focus-icon-color: #F26321;
+  --mdc-radio-selected-hover-icon-color: #F26321;
+  --mdc-radio-selected-icon-color: #F26321;
+  --mdc-radio-selected-pressed-icon-color: #F26321;
+  --mat-mdc-radio-checked-ripple-color: #F26321;
+}
+
+.mat-mdc-raised-button.mat-primary {
+  --mdc-protected-button-container-color: #81D8D0;
+  --mdc-protected-button-label-text-color: #57504d;
+}
+
+.mat-calendar-body-cell-preview {
+  fill: rgba(129, 216, 208, 0.5) !important;
+}
+
+.cdk-global-overlay-wrapper {
+  fill: rgba(129, 216, 208, 0.5) !important;
+}
+
+.mat-calendar-body-cell-content, .mat-focus-indicator, .mat-calendar-body-selected {
+  --mdc-protected-button-container-color: #81D8D0;
+  --mdc-protected-button-label-text-color: #57504d;
+}
+
+.mat-calendar-body-cell-content, .mat-focus-indicator {
+  background-color: #fff !important;
+  color: #57504d !important;
+}
+
+.mat-calendar-body-selected {
+  background-color: #81D8D0 !important;
+  color: #57504d !important;
+}
+
+.mat-mdc-raised-button {
+  background-color: #F26321;
+  color: #FFFFFF;
+}
+
+.mat-mdc-raised-button.mat-unthemed {
+  background-color: #F26321 !important;
+  color: #FFFFFF !important;
+}
+
+.mat-mdc-icon-button[disabled] .mat-mdc-paginator-icon {
+  fill: rgba(0, 0, 0, .88);
+}
+
+.mat-mdc-form-field-flex, .ng-tns-c105-14 {
+  color: #57504d !important;
+}
+
+.mat-mdc-input-element, .mat-datepicker-input, .ng-tns-c105-17, .mat-mdc-form-field-input-control, .mdc-text-field__input, .ng-pristine, .ng-valid .cdk-text-field-autofill-monitored, .ng-touched {
+  color: #57504d !important;
+}
