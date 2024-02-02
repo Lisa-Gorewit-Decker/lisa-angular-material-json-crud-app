@@ -1,4 +1,4 @@
-# LisaAngularMaterialJsonCrudApp
+# Lisa Angular Material JSON CRUD APP
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1 and [JSON Server](https://www.npmjs.com/package/json-server).
 
