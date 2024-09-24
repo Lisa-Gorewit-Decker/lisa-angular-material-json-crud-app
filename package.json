@@ -28,7 +28,8 @@
     "webpack-dev-middleware": ">=6.1.2",
     "postcss": ">=8.4.31",
     "zone.js": "~0.12.0",
-    "ip": "<= 2.0.1"
+    "ip": "<= 2.0.1",
+    "path-to-regexp": ">=1.9.0"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^15.0.4",
@@ -48,6 +49,7 @@
     "semver": "^7.5.4",
     "tslib": "^2.3.0",
     "zone.js": "~0.12.0",
-    "ip": "<= 2.0.1"
+    "ip": "<= 2.0.1",
+     "path-to-regexp": ">=1.9.0"
   }
 }
