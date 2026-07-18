@@ -5,7 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "watch": "ng build --watch --configuration development,"
+    "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
   "private": true,
@@ -64,5 +64,8 @@
     "cross-spawn": ">=7.0.5",
     "vite": ">=5.4.12",
     "http-proxy-middleware": ">=3.0.4"
+  },
+  "overrides": {
+    "websocket-driver": "0.7.5"
   }
 }
