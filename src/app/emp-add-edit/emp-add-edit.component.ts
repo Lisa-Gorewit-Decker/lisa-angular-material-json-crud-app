@@ -40,7 +40,9 @@ export class EmpAddEditComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    this.empForm.patchValue(this.data);
+    if (this.data) {
+      this.empForm.patchValue(this.data);
+    }
   }
 
   onFormSubmit() {

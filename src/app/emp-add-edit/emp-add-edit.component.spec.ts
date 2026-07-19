@@ -34,7 +34,7 @@ describe('EmpAddEditComponent', () => {
       ],
       providers: [
         { provide: MatDialogRef, useValue: { close: () => {} } },
-        { provide: MAT_DIALOG_DATA, useValue: null },
+        { provide: MAT_DIALOG_DATA, useValue: {} },
       ]
     })
       .compileComponents();
