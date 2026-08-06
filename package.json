@@ -18,7 +18,7 @@
     "@angular/forms": "^22.0.7",
     "@angular/material": "^22.0.6",
     "@angular/platform-browser": "^22.0.7",
-    "@angular/platform-browser-dynamic": "^22.0.7",
+    "@angular/platform-browser-dynamic": "^22.0.8",
     "@angular/router": "^22.0.7",
     "json-server": "^0.17.3",
     "rxjs": "^7.8.0",
