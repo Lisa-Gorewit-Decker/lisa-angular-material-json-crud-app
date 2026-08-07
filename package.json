@@ -14,7 +14,7 @@
     "@angular/cdk": "^22.0.6",
     "@angular/common": "^22.0.7",
     "@angular/compiler": "^22.0.7",
-    "@angular/core": "^22.0.7",
+    "@angular/core": "^22.0.8",
     "@angular/forms": "^22.0.7",
     "@angular/material": "^22.0.6",
     "@angular/platform-browser": "^22.0.7",
@@ -37,7 +37,7 @@
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.0.0",
-    "typescript": "~6.0.0"
+    "typescript": "~7.0.2"
   },
   "overrides": {
     "@hono/node-server": "^2.0.5",
