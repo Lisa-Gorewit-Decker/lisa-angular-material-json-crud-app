@@ -1,8 +1,8 @@
   # name: Coverage Robot Action
-  # You may pin to the exact commit or the version.
-  # uses: coverage-robot/action@aa213eec98834151eb70a2c3e65c0e3676da80dc
+    # You may pin to the exact commit or the version.
+    # uses: coverage-robot/action@aa213eec98834151eb70a2c3e65c0e3676da80dc
   - uses: coverage-robot/action@v1.0.13
-  with:
+    with:
     # Multi-line selection of coverage files to upload
     files: 
     # Tag to use for the coverage upload
