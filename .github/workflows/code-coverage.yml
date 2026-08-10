@@ -1,4 +1,4 @@
-- name: Coverage Robot Action
+  # - name: Coverage Robot Action
   # You may pin to the exact commit or the version.
   # uses: coverage-robot/action@aa213eec98834151eb70a2c3e65c0e3676da80dc
   uses: coverage-robot/action@v1.0.13
