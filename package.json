@@ -44,7 +44,7 @@
   },
   "overrides": {
     "@hono/node-server": "^2.0.5",
-    "fast-uri": "^3.1.5",
+    "fast-uri": "^3.1.7",
     "@babel/core": "^7.29.6",
     "ajv": "^8.18.0",
     "esbuild": "^0.25.0",
