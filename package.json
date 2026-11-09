@@ -31,7 +31,7 @@
     "json-server": "^0.17.3",
     "rxjs": "^7.8.0",
     "semver": "^7.8.6",
-    "tslib": "^2.7.0",
+    "tslib": "^2.9.1",
     "zone.js": "~0.16.3"
   },
   "devDependencies": {
